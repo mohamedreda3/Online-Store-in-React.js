@@ -1,0 +1,1 @@
+export const Definition = (props) => <h1 className="def">{props.Definition}</h1>
